@@ -1,0 +1,22 @@
+.flex{display: flex;justify-content: space-between;}
+.flex a {text-decoration: none; color: black;}
+.flexx{display: flex; justify-content: center; }
+.flexx a{text-decoration: none; color: black;}
+#hero1{background-image: url(hero1.png);background-repeat: no-repeat;  width: 100%;height: 100vh;background-size: cover;background-attachment: fixed; }
+.bot{color: white; font-size: 50px;}
+#fee{display: flex; align-items: center;justify-content: center;}
+.big{font-size: 35px;}
+#mra{margin-top: 130px;}
+.bet{font-size: 55px;}
+.bigp{font-size: 25px;}
+.stay{font-size: 25px;}
+.bigpara{font-size: 20px; font-style: bold;}
+.touch{font-size: 30px;}
+.itag{font-size: 30px}
+.itag a {text-decoration: none; color: black;}
+.bigbig{font-size: 40px;}
+.ema{font-size: 20px;}
+.pad{padding-top: 500px;  }
+#new{background-color: black; color: white;border-radius: 15px;}
+#contact{background-color: white; }
+header{position: fixed;top: 0%; width: 100%;background-color: white;}
